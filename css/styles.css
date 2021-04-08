@@ -21,10 +21,11 @@ h1 {
 }
 .lorem {
   width: 100%;
-  height: 150px;
+  height: 180px;
   font-family: Helvetica;
   color: white;
   padding-top: 30px;
+  padding: 30px 10px 5px 10px;
 }
 /* Simple Responsive Framework. */
 .row {
